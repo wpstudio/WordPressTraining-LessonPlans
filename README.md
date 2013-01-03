@@ -13,6 +13,7 @@ The 20 sessions presented in this guide are organized into 6 modules:
 6. Presentation
 
 Each topical lesson includes:
+
 1. Objectives
 2. Lecture Teaching Points
 3. Assigned Readings
