@@ -24,15 +24,15 @@ Module 1: Web Fundamentals
 
 * Web-based articles to read
 
-- Link 1
-- Link 2
-- Link 3
-- Link 4
+1. Link 1
+2. Link 2
+3. Link 3
+4. Link 4
 
 4. **Tutorial Videos**
 
-- HTML Dojo Session 1
-- HTML Dojo Complete
+1. HTML Dojo Session 1
+2. HTML Dojo Complete
 
 5. **Hands-on Practice**
 
