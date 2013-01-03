@@ -6,12 +6,12 @@ Module 1: Web Fundamentals
 
 ### Lesson 1 HTML
 
-1. Objectives
+1. **Objectives**
 
 * Students will be able to create a web page using the following tags: html, head, title, body, a, p, strong, em, ul, li, ol, dl, dt, and img.
 * Students will be able to identify the difference between elements, tags, and attributes.
 
-2. Lecture Teaching Points
+2. **Lecture Teaching Points**
 
 * HTML Structure and Syntax
 * View Source
@@ -20,7 +20,7 @@ Module 1: Web Fundamentals
 * Attributes
 * Absolute vs. Relative Linking
 
-3. Assigned Readings
+3. **Assigned Readings**
 
 * Web-based articles to read
 
@@ -29,16 +29,16 @@ Module 1: Web Fundamentals
 - Link 3
 - Link 4
 
-4. Tutorial Videos
+4. **Tutorial Videos**
 
 - HTML Dojo Session 1
 - HTML Dojo Complete
 
-5. Hands-on Practice
+5. **Hands-on Practice**
 
 * Students will create a single web page. The purpose of the page is to create a personal profile with information about him or herself. The students will need to find a creative and semantically correct way to implement the following elements in the web page, html, head, title, body, a, p, strong, em, ul, li, ol, dl, dt, and img.
 
-6. Additional Resources
+6. **Additional Resources**
 
 * Rubric
 
