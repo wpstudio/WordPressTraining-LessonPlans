@@ -22,25 +22,25 @@ Module 1: Web Fundamentals
 
 3. **Assigned Readings**
 
-* Web-based articles to read
+Web-based articles to read
 
-1. Link 1
-2. Link 2
-3. Link 3
-4. Link 4
+* Link 1
+* Link 2
+* Link 3
+* Link 4
 
 4. **Tutorial Videos**
 
-1. HTML Dojo Session 1
-2. HTML Dojo Complete
+* HTML Dojo Session 1
+* HTML Dojo Complete
 
 5. **Hands-on Practice**
 
-* Students will create a single web page. The purpose of the page is to create a personal profile with information about him or herself. The students will need to find a creative and semantically correct way to implement the following elements in the web page, html, head, title, body, a, p, strong, em, ul, li, ol, dl, dt, and img.
+Students will create a single web page. The purpose of the page is to create a personal profile with information about him or herself. The students will need to find a creative and semantically correct way to implement the following elements in the web page, html, head, title, body, a, p, strong, em, ul, li, ol, dl, dt, and img.
 
 6. **Additional Resources**
 
-* Rubric
+Rubric
 
 | **Category** | **Excellent 4** | **Good 3** | **Satisfactory 2** | **Needs Improvement 1** | **Points Received** |
 |:------------:|:---------------:|:----------:|:------------------:|:-----------:|:------------:|
