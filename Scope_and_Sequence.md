@@ -12,7 +12,7 @@ Module 2: WordPress Foundations
 2. [Local WordPress Installs and Hosted Installations, FTP](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-4.md)
 3. [Security and Passwords](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-5.md)
 4. [Posts and Pages](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-6.md)
-5. Categories and Tags
+5. [Categories and Tags](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-7.md)
 6. Comments and Moderation
 
 Module 3: Media
