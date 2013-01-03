@@ -8,7 +8,7 @@ Module 1: Web Fundamentals
 
 Module 2: WordPress Foundations
 
-1. Content Managment Systems, Domains and Hosting
+1. [Content Managment Systems, Domains and Hosting](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-3.md)
 2. Local WordPress Installs and Hosted Installations, FTP
 3. Security and Passwords
 4. Posts and Pages
