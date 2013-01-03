@@ -13,12 +13,12 @@ Module 2: WordPress Foundations
 3. [Security and Passwords](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-5.md)
 4. [Posts and Pages](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-6.md)
 5. [Categories and Tags](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-7.md)
-6. Comments and Moderation
+6. [Comments and Moderation](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-8.md)
 
 Module 3: Media
 
-1. HTML vs. Visual Editor
-2. Media Library
+1. [HTML vs. Visual Editor](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-9.md)
+2. [Media Library](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-10.md)
 3. Basic Image Editing
 
 Module 4: Customization
