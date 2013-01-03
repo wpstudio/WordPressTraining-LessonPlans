@@ -3,7 +3,7 @@ Curriculum Overview
 
 Module 1: Web Fundamentals
 
-1. HTML
+1. [HTML](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-1.md)
 2. CSS
 
 Module 2: WordPress Foundations
