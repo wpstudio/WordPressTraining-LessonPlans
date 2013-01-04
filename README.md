@@ -16,13 +16,11 @@ Each topical lesson includes:
 
 1. Objectives
 2. Lecture Teaching Points
-3. Assigned Readings
-
-* Web-based articles to read
-* eBooks (PDF format)
-
+3. Assigned Readings - Web-based articles & eBooks (PDF)
 4. Tutorial Videos
 5. Hands-on Practice
 6. Additional Resources
 
 Referenced curriculum materials include [WebDesign.com](http://webdesign.com) training videos included as part of the [Free Educator's Toolkit from iThemes](http://ithemes.com/education/educators-program-application/)
+
+[Explore the Curriculum Overview](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Scope_and_Sequence.md)
