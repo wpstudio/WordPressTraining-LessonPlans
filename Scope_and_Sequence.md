@@ -19,15 +19,15 @@ Module 3: Media
 
 1. [HTML vs. Visual Editor](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-9.md)
 2. [Media Library](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-10.md)
-3. Basic Image Editing
+3. [Basic Image Editing](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-11.md)
 
 Module 4: Customization
 
-1. Sidebar widgets
-2. Menus
-3. Themes
-4. Plugins
-5. Site Development
+1. [Sidebar widgets](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-12.md)
+2. [Menus](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-13.md)
+3. [Themes](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-14.md)
+4. [Plugins](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-15.md)
+5. [Site Development](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-16.md)
 
 Module 5: Maintenance and Upgrades
 
