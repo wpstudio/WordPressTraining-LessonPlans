@@ -31,10 +31,10 @@ Module 4: Customization
 
 Module 5: Maintenance and Upgrades
 
-1. Backups and Updates
-2. Form Options
-3. Google Analytics and SEO
+1. [Backups and Updates](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-17.md)
+2. [Form Options](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-18.md)
+3. [Google Analytics and SEO](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-19.md)
 
 Module 6: Presentation
 
-1. Client Presentation
+1. [Client Presentation](https://github.com/wpstudio/iThemes-Curriculum/blob/master/Lesson-20.md)
