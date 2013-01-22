@@ -1,4 +1,4 @@
-iThemes Curriculum
+iThemes Lesson Plans
 ==================
 
 Module 6: Presentation

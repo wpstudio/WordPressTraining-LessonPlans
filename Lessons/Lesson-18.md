@@ -1,4 +1,4 @@
-iThemes Curriculum
+iThemes Lesson Plans
 ==================
 
 Module 5: Maintenance and Upgrades
